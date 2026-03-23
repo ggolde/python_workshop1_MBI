@@ -1,5 +1,5 @@
 # Introduction
-This is the homepage repository for the Python for Data Analysis: QuickStart workshop. Download the repository folder and follow the setup section. You will find a Jupyter Notebook with exercises and one with the solutions. Inside the resources folder you will find PDFs of cheat sheets and the slides.
+This is the homepage repository for the Python for Data Analysis: QuickStart workshop. Download the repository folder (under the `< > Code` button) and follow the setup section. You will find a Jupyter Notebook with exercises and one with the solutions. Inside the resources folder you will find PDFs of cheat sheets and the slides.
 
 # Setup
 (MacOS only) Install homebrew, optional but recommended ([link](https://brew.sh))
